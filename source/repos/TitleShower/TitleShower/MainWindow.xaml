@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
     <Grid>
-        <Button Name="RightButton" Content="表示内容更新" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="45" Height="65" Width="350" Click="RightButton_Click"/>
+        <Button Name="RefleshButton" Content="表示反映" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="45" Height="65" Width="350" Click="RefleshButton_Click" Margin="0,336,0,0"/>
+        <TextBox Name="TitleBox" HorizontalAlignment="Center" Height="78" Margin="0,82,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="384" FontSize="50px"/>
+        <TextBox Name="OranizationBox" HorizontalAlignment="Center" Height="78" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="384" FontSize="50px"/>
+        <Label Content="タイトルを入力" HorizontalAlignment="Left" Height="28" Margin="208,64,0,0" VerticalAlignment="Top" Width="91"/>
+        <Label Content="発表団体入力" HorizontalAlignment="Left" Height="28" Margin="208,160,0,0" VerticalAlignment="Top" Width="91"/>
+
+
     </Grid>
 </Window>

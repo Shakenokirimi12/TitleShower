@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shake\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj": {}
+    "C:\\Users\\shake\\Source\\Repos\\Shakenokirimi12\\TitleShower\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shake\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj": {
+    "C:\\Users\\shake\\Source\\Repos\\Shakenokirimi12\\TitleShower\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shake\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj",
+        "projectUniqueName": "C:\\Users\\shake\\Source\\Repos\\Shakenokirimi12\\TitleShower\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj",
         "projectName": "TitleShower",
-        "projectPath": "C:\\Users\\shake\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj",
+        "projectPath": "C:\\Users\\shake\\Source\\Repos\\Shakenokirimi12\\TitleShower\\source\\repos\\TitleShower\\TitleShower\\TitleShower.csproj",
         "packagesPath": "C:\\Users\\shake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shake\\source\\repos\\TitleShower\\TitleShower\\obj\\",
+        "outputPath": "C:\\Users\\shake\\Source\\Repos\\Shakenokirimi12\\TitleShower\\source\\repos\\TitleShower\\TitleShower\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,6 +33,11 @@
           "net48": {
             "projectReferences": {}
           }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
